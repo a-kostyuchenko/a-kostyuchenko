@@ -4,12 +4,11 @@
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexey-kostyuchenko)
 
-<h3 align="center">Technology stack</h3>
+## About Me
+I'm a passionate .NET developer with experience in building robust and scalable applications. I love exploring the latest technologies and techniques to solve complex problems and deliver high-quality software solutions.
 
-<h3 align="center">Currently Learning</h3>
-
-<h3 align="center">Github Stats</h3>
+<h3>Github Stats</h3>
 
 <a href="https://github.com/a-kostyuchenko">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=a-kostyuchenko&count_private=true&show_icons=true&hide=stars&theme=tokyonight"/></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=a-kostyuchenko&count_private=true&show_icons=true&hide=stars&theme=tokyonight"/>
 </a>
