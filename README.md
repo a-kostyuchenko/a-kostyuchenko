@@ -7,6 +7,8 @@
 ## About Me
 I'm a passionate .NET developer with experience in building robust and scalable applications. I love exploring the latest technologies and techniques to solve complex problems and deliver high-quality software solutions.
 
+- I’m currently working on: Mastering DDD, microservices architecture and other advanced software design concepts
+
 <h3>Github Stats</h3>
 
 <a href="https://github.com/a-kostyuchenko">
